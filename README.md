@@ -61,7 +61,7 @@ Currently improving my skills in **Spring Boot, React, and Machine Learning**.
 
 <div align="center">
 
-![Meryem's GitHub stats](https://github-readme-stats.vercel.app/api?username=meryemboukraa&show_icons=true&theme=rose_pine)
+![Meriem's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeriemBoukraa&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meryemboukraa&layout=compact&theme=rose_pine)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meryemboukraa&theme=rose_pine)
 
