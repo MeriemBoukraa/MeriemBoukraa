@@ -23,16 +23,14 @@ I enjoy solving problems through code and exploring various software fields such
 
 ## 🚀 Projects  
 
-- 🐾 **Petagora App** – Full-stack application for pet tracking (React + Spring Boot)  
-- 📚 **Book Management System** – CRUD web app built with Django  
-- 🧠 **AI Health Assistant** – Preventive diagnostics with generative AI integration  
+
 
 ---
 
 ## 📫 Contact  
 
 - ✉️ Email: [meryem.boukraa@esprit.tn](mailto:meryem.boukraa@esprit.tn)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/meriemboukraa)  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/meriemboukraa](https://www.linkedin.com/in/meriem-boukraa-30a3aa222/))  
 - 🌍 Based in: Ariana, Tunisia  
 
 ---
