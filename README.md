@@ -71,9 +71,9 @@ Currently improving my skills in **Spring Boot, React, and Machine Learning**.
 
 ### 🌸 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meriem%20Boukraa-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meriemboukraa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meriem%20Boukraa-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/meriemboukraa/](https://www.linkedin.com/in/meriem-boukraa-30a3aa222/))
 [![Gmail](https://img.shields.io/badge/Gmail-meryem.boukraa@esprit.tn-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meryem.boukraa@esprit.tn)
-[![GitHub](https://img.shields.io/badge/GitHub-meryemboukraa-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meryemboukraa)
+[![GitHub](https://img.shields.io/badge/GitHub-meryemboukraa-black?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/meryemboukraa](https://github.com/MeriemBoukraa))
 
 ---
 
